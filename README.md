@@ -1,4 +1,3 @@
-<img align="right" src="Code typing-bro.png" max-width="400px" width="400px" align="right">
 
 <h3>💻 Developer</h3>
 
