@@ -4,19 +4,6 @@
 - <p>✈️ 19y, studying computer engineering</p>
 - <p>👨‍💻 Skills: <strong>HTML5, CSS3, C#, ASP.NET, OO, SQL Server, Python, C and C++</strong><br></p>
 
-<h3>📱 Social </h3>
-
-<div>
- 
-<a href="mailto:gabriel1911260@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabriel_hfonseca" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   <a href="www.linkedin.com/in/gabriel-henrique-fonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-
-
-</div>
-
 
 <div align="center">
   <a href="https://github.com/OGabrielFonseca">
