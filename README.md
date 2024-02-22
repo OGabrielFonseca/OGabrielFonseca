@@ -1,8 +1,8 @@
 
 <h3>💻 Developer</h3>
 
-- <p>✈️ 20y, studying computer engineering</p>
-- <p>👨‍💻 Skills: <strong>HTML5, CSS3, C#, ASP.NET, OO, SQL Server, Python, JS and Angular</strong><br></p>
+- <p>✈️ 22y, studying computer engineering</p>
+- <p>👨‍💻 Skills: <strong>Angular, C#, ASP.NET, OO, SQL Server, Python </strong><br></p>
 
 
 <div align="center">
